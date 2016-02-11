@@ -1,0 +1,30 @@
+_repo: The-Imperial-Crown_48718
+contributor:
+  translator:
+    agent_name: Wooff, Michael
+    alias: Wooff, Michael John
+    gutenberg_agent_id: '41215'
+    url: http://www.gutenberg.org/2009/agents/41215
+creator:
+  author:
+    agent_name: Raabe, Wilhelm
+    aliases:
+    - Corvinus, Jakob
+    - Corvinus, Jacob
+    - Raabe, Wilhelm Karl
+    birthdate: 1831
+    deathdate: 1910
+    gutenberg_agent_id: '8890'
+    url: http://www.gutenberg.org/2009/agents/8890
+    wikipedia: http://de.wikipedia.org/wiki/Wilhelm_Raabe
+description: ''
+gutenberg_issued: '2015-04-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48718'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: The Imperial Crown
+url: http://www.gutenberg.org/ebooks/48718
