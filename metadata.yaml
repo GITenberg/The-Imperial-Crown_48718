@@ -1,10 +1,14 @@
 _repo: The-Imperial-Crown_48718
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Wooff, Michael
     alias: Wooff, Michael John
     gutenberg_agent_id: '41215'
     url: http://www.gutenberg.org/2009/agents/41215
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Raabe, Wilhelm
@@ -18,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8890
     wikipedia: http://de.wikipedia.org/wiki/Wilhelm_Raabe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48718#The-Imperial-Crown
 gutenberg_issued: '2015-04-16'
 gutenberg_type: Text
 identifiers:
